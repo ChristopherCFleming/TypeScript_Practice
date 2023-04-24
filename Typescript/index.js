@@ -1,0 +1,12 @@
+var x = 4;
+var y = 6;
+var s = 'string';
+var b = true;
+var v = false;
+var isAnswered = true;
+console.log(x);
+var strArray = [];
+var strAr = [];
+var user = [9, 'nine'];
+user.push(7);
+console.log(true);
